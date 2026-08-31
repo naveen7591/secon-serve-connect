@@ -1,14 +1,20 @@
-# Welcome to your Lovable project
+# SecondServe Connect
+
+Build SecondServe, a modern food-rescue web app that connects restaurants/hotels/cafes with surplus food to NGOs and volunteers, so edible food gets collected and delivered instead of wasted.
+
+Create a polished, professional, startup-quality UI with a strong social-impact feel.
 
 This project was built with [Lovable](https://lovable.dev).
 
+**Live app**: https://secon-serve-connect.lovable.app
+
 ## Build with Lovable
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+Continue developing this project in the [Lovable editor](https://lovable.dev/projects/49ab13d4-6c6e-4fdf-885b-4e335db76b82).
 
 - **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+- **Stay in sync**: every change made in Lovable is committed straight to this repository.
+- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
 
 ## Development
 
@@ -20,10 +26,3 @@ cd <repository-name>
 npm i
 npm run dev
 ```
-
-## Built with
-
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
